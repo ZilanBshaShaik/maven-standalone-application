@@ -22,7 +22,6 @@
                 <sonar.login>admin</sonar.login>
 		<sonar.login>72aac8459e467a0b020e5239eb43e22282717e4d</sonar.login>
 		<!--<sonar.password>g33kOutDB</sonar.password>-->
-		<sonar.host.url>http://35.154.242.68:9000/</sonar.host.url>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<maven.compiler.source>11</maven.compiler.source>
                 <maven.compiler.target>11</maven.compiler.target>
